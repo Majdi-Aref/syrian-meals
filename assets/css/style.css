@@ -9,5 +9,20 @@
 body {
     font-family: Fuzzy Bubbles, sans-serif;
     font-weight: 400;
+    color: rgba(3, 20, 41, 0.7);
+}
+
+/* headings and logo */
+
+h1, h2 {
+    font-family: Rubik Vinyl, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: rgba(2, 13, 26, 0.7);
+}
+
+#logo {
+    float: left;
+    font-size: 300%;
 }
 
