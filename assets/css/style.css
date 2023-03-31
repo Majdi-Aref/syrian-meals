@@ -1,4 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&family=Rubik+Vinyl&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
 body {
-    font-family: Arial;
+    font-family: Fuzzy Bubbles, sans-serif;
+    font-weight: 400;
 }
 
