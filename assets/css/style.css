@@ -57,7 +57,7 @@ h1, h2 {
     border-bottom: 1px solid  rgba(2, 13, 26, 0.7);
 }
 
-/* hero image */
+/* hero image and about us */
 
 #hero-outer {
     height: 600px;
@@ -67,8 +67,9 @@ h1, h2 {
 
 #hero-image {
     height: 600px;
-    width: 100%;
+    width: 50%;
     background: url(../images/hero-image.jpg) no-repeat left center;
+    display: inline-block;
 
 /* Animate zoom effect on loading page */
 
@@ -86,4 +87,16 @@ h1, h2 {
     to {
         transform: scale(1.1);
     }
+}
+
+#about-us {
+    font-size: 110%;
+
+    height: 600px;
+    width: 40%;
+
+    display: inline-block;
+    float: right;
+
+    margin-right: 37px;
 }
