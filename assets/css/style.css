@@ -90,13 +90,45 @@ h1, h2 {
 }
 
 #about-us {
-    font-size: 110%;
-
     height: 600px;
     width: 40%;
-
     display: inline-block;
     float: right;
-
     margin-right: 37px;
+    line-height: 1.5;
 }
+
+/* testimonials */
+
+.testimonials {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 50px;
+    grid-row-gap: 20px;
+    width: 95%;
+    margin: 0 auto;
+  }
+  
+  .testimonials-heading {
+    grid-column: 1 / 4;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .testimonial {
+    border-radius: 10px;
+    box-shadow: 0 0 3px rgba(2, 13, 26, 0.7);
+    padding: 20px;
+  }
+  
+  .testimonial p {
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  
+  .testimonial cite {
+    display: block;
+    text-align: right;
+    font-style: italic;
+  }
+  
