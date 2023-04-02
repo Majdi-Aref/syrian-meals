@@ -296,3 +296,6 @@ footer {
     }
 }
 
+#meals-section {
+    clear: both;
+}
