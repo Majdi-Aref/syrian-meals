@@ -4,7 +4,6 @@
     margin: 0;
     padding: 0;
     border: none;
-    box-sizing: border-box;
 }
 
 body {
@@ -296,6 +295,61 @@ footer {
     }
 }
 
+/* meals page
+
+/* meals section grid */
+
 #meals-section {
     clear: both;
+    padding: 20px;
+    margin-top: 20px;
 }
+
+#meals-prices {
+    text-align: center;
+    line-height: 1.5;
+    margin-bottom: 40px;
+    font-weight: 600;
+}
+
+#meals-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+  }
+
+/* media queries of meals grid devices smaller than a laptop */
+
+@media screen and (max-width: 1170px) {
+    #meals-grid {
+      grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    }
+  }
+
+
+@media screen and (max-width: 990px) {
+    #meals-grid {
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+  }
+
+  @media screen and (max-width: 800px) {
+    #meals-grid {
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+  }
+
+  @media screen and (max-width: 605px) {
+    #meals-grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  @media screen and (max-width: 420px) {
+    #meals-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+
+  
