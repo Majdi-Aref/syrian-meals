@@ -369,9 +369,9 @@ footer {
 
 .contact-form {
     margin: 150 pixels 10% 0 0;
-    padding: 30px;
+    padding: 25px;
     color: rgba(2, 13, 26, 0.7);
-    background-color: none;
+    background-color: white;
     width: 350px;
     position: absolute;
     left: 10%;
@@ -380,7 +380,7 @@ footer {
 }
 
 .slogan {
-    margin-bottom: 10px;
+    margin-bottom: 15px;
     color: orangered;
 }
 
@@ -396,14 +396,14 @@ footer {
 }
 
 .text-input:hover {
-    border-color: orange;
+    border-color: orangered;
 }
 
 .customer-message {
     background: transparent;
     color: black;
     width: 100%;
-    margin: 5px 0 20px 0;
+    margin: 5px 0 10px 0;
     border: 1px solid rgba(2, 13, 26, 0.7);
     font-family: Fuzzy Bubbles, sans-serif;
     border: 1px solid rgba(2, 13, 26, 0.7);
@@ -413,12 +413,19 @@ footer {
 .send-button {
     margin-top: 10px;
     border-radius: 4px;
-    padding: 15px 32px 15px 32px;
+    padding: 10px 32px 10px 32px;
     text-align: center;
     font-size: 100%;
     background-color: orangered;
     color: white;
     font-family: Fuzzy Bubbles, sans-serif;
+}
+
+#business-address {
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    line-height: 1.5;
 }
 
 
