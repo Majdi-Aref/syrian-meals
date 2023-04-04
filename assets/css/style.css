@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: Fuzzy Bubbles, sans-serif;
+    font-family: "Fuzzy Bubbles", sans-serif;
     font-weight: 400;
     color: rgba(3, 20, 41, 0.7);
 }
@@ -16,7 +16,7 @@ body {
 
 h1,
 h2 {
-    font-family: Rubik Vinyl, sans-serif;
+    font-family: "Rubik Vinyl", sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: rgba(2, 13, 26, 0.7);
@@ -65,7 +65,7 @@ h2 {
 #hero-outer {
     height: 600px;
     width: 100%;
-    overflow: hideen;
+    overflow: hidden;
 }
 
 #hero-image {
@@ -253,7 +253,6 @@ footer {
 
     #hero-image {
         height: 200px;
-        background-position: ;
     }
 
     #about-us {
@@ -356,8 +355,6 @@ footer {
 
 #contact-form-section {
     clear:both;
-    height: ;
-    width: ;
     position: relative;
 }
 
@@ -392,7 +389,7 @@ footer {
     margin: 5px 0 20px 0;
     border: 1px solid rgba(2, 13, 26, 0.7);
     border-radius: 4px;
-    font-family: Fuzzy Bubbles, sans-serif;
+    font-family: "Fuzzy Bubbles", sans-serif;
 }
 
 .text-input:hover {
@@ -405,7 +402,7 @@ footer {
     width: 100%;
     margin: 5px 0 10px 0;
     border: 1px solid rgba(2, 13, 26, 0.7);
-    font-family: Fuzzy Bubbles, sans-serif;
+    font-family: "Fuzzy Bubbles", sans-serif;
     border: 1px solid rgba(2, 13, 26, 0.7);
     border-radius: 4px;
 }
@@ -418,7 +415,7 @@ footer {
     font-size: 100%;
     background-color: orangered;
     color: white;
-    font-family: Fuzzy Bubbles, sans-serif;
+    font-family: "Fuzzy Bubbles", sans-serif;
 }
 
 #business-address {
@@ -437,7 +434,7 @@ footer {
     }
   }
 
-  
+
 
        
 
