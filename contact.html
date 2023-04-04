@@ -16,40 +16,42 @@
         <a href=""><h1 id="logo">SYRIAN MEALS</h1></a>
         <nav>
             <ul id="menu">
-                <li><a href="index.html" class="active">Home</a></li>
+                <li><a href="index.html">Home</a></li>
                 <li><a href="meals.html">Meals</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="contact.html" class="active">Contact</a></li>
             </ul>
         </nav>
     </header>
-    <section id="hero-outer">
-        <div id="hero-image"></div>
-        <div id="about-us">
-            <br>
-            <h2>About Us</h2>
-            <br>
-            <p>We are a family-run small business based in Hamburg since 2016 that sells home-cooked meals, which we make by implementing the Syrian cuisine and using only bio ingredients.</p>
-            <br>
-            <p>You can order either by phone or by email using our contact page at least one day in advance; please consider that we deliver only in Hamburg.</p>
+
+    <section id="contact-form-section">
+        <div id="contact-form-image"></div>
+        <div id="contact-envelope">
+            <form action="https://formdump.codeinstitute.net/" method="post" class="contact-form">
+                <h3 class="slogan">You Are What You Eat!</h3>
+                <label for="name"><i class="fa-solid fa-user"></i></label>
+                <br>
+                <input type="text" id="name" name="name" class="text-input" required>
+                <br>
+                <label for="phone"><i class="fa-solid fa-phone"></i></label>
+                <br>
+                <input type="text" id="phone" name="phone" class="text-input" required>
+                <br>
+                <label for="email"><i class="fa-solid fa-at"></i></label>
+                <br>
+                <input type="email" id="email" name="email_address" class="text-input" required>
+                <br>
+                <label for="message-area"><i class="fa-solid fa-message"></i></label>
+                <br>
+                <textarea id="message-area" name="message-area" rows="10" columns="200" class="customer-message"></textarea>
+                <br>
+                <button type="submit" value="Send" class="send-button">Send</button>
+            </form>
         </div>
+
     </section>
-    <section>
-        <div class="testimonials">
-            <h2 class="testimonials-heading">Testimonials</h2>
-            <div class="testimonial">
-              <p>"Your grilled Kubbeh is my favorite food in the world! Outstanding!!"</p>
-              <cite>Amy Rachel</cite>
-            </div>
-            <div class="testimonial">
-              <p>"Looking forward to being a REGULAR ordering customer!!"</p>
-              <cite>Forrest Smith</cite>
-            </div>
-            <div class="testimonial">
-              <p>"Just tried the shakrieh today and LOVED it!!!! Soooo delicious!!"</p>
-              <cite>Olivia Johnson</cite>
-            </div>
-          </div>
-    </section>
+    <section>address</section>
+    <section>google maps location</section>
+
     <footer>
         <ul class="social-networks">
             <li><a href="https://twitter.com/" target="_blank" rel="noopener" aria-label="Visit our Twitter page (opens in a new tab)"><i class="fa-brands fa-square-twitter"></i></a></li>
@@ -58,10 +60,7 @@
             <li><a href="https://www.youtube.com/" target="_blank" rel="noopener" aria-label="Visit our YouTube page (opens in a new tab)"><i class="fa-brands fa-square-youtube"></i></a></li>   
         </ul>
     </footer>
-
     <!-- font awesome script-->
     <script src="https://kit.fontawesome.com/37b0d92d6a.js" crossorigin="anonymous"></script>
-    
 </body>
-
 </html>
