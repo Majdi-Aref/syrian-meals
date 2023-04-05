@@ -74,19 +74,18 @@ Syrian Meals is a site for family-run small business that sells home-made syrian
 
 ![Wireframe screenshot of the hero image and About Us section](assets/images/wireframe-hero-image-about-us.png)
 
-![Wireframe screenshot of testimonials and footer](assets/images/wireframe-testimonials-footer.png)
+![Wireframe screenshot of the testimonials and the footer](assets/images/wireframe-testimonials-footer.png)
 
-![Wireframe-screenshot of the hero image and About Us section](assets/images/wireframe-hero-image-about-us.png)
+![Wireframe screenshot of the first part of the meals section](assets/images/wireframe-meals-1.png)
 
-![Wireframe-screenshot of the hero image and About Us section](assets/images/wireframe-hero-image-about-us.png)
+![Wireframe screenshot of the second part of the meals section](assets/images/wireframe-meals-2.png)
 
-![Wireframe-screenshot of the hero image and About Us section](assets/images/wireframe-hero-image-about-us.png)
+![Wireframe screenshot of the third part of meals section](assets/images/wireframe-meals-3.png)
 
-![Wireframe-screenshot of the hero image and About Us section](assets/images/wireframe-hero-image-about-us.png)
+![Wireframe screenshot of the fourth part of meals section](assets/images/wireframe-meals-4.png)
 
+![Wireframe screenshot of the first part of the contact page](assets/images/wireframe-contact-page-1.png)
 
-
-
-
+![Wireframe screenshot of the second part of the contact page](assets/images/wireframe-contact-page-2.png)
 
 
