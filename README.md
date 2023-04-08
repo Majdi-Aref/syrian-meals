@@ -110,7 +110,14 @@ Syrian Meals is a site for family-run small business that sells home-made syrian
 # Testing
   + Code validation
     + index.html page
-      + Using the W3C html validator, I checked the index.html page; no errors or warnings were found as the following link shows: [Link to validation of index.html file of Syrian Meals ](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmajdi-aref.github.io%2Fsyrian-meals%2Findex.html&showsource=yes&showoutline=yes)
+      + Using the W3C html validator, I checked the index.html page; no errors or warnings were found as the following link demonstrates: [Link to validation of index.html file of Syrian Meals ](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmajdi-aref.github.io%2Fsyrian-meals%2Findex.html&showsource=yes&showoutline=yes)
     + meals.html page
-      + Using the W3C html validator, I checked the meals.html page; no errors or warnings were found as the following link shows: [Link to validation of meals.html file of Syrian Meals ](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmajdi-aref.github.io%2Fsyrian-meals%2Fmeals.html&showsource=yes&showoutline=yes)
+      + Using the W3C html validator, I checked the meals.html page; no errors or warnings were found as the following link demonstrates: [Link to validation of meals.html file of Syrian Meals ](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmajdi-aref.github.io%2Fsyrian-meals%2Fmeals.html&showsource=yes&showoutline=yes)
+    + contact.html page
+      + Using the W3C html validator, I checked the contact.html page. No errors were found, but three warnings were highlighte. At this point, I prefer to ignore those warnings. Please look at the following link: [Link to validation of contact.html file of Syrian Meals ](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmajdi-aref.github.io%2Fsyrian-meals%2Fcontact.html&showsource=yes&showoutline=yes)
+    + style.css file
+      + 
+    
+    
+
     
