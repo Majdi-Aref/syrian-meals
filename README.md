@@ -2,11 +2,14 @@
 Syrian Meals is a site for family-run small business that sells home-made syrian meals in Hamburg, Germany, which will be sought from people who enjoy eating both quite delicious and quite healthy food. Syrian Meals will be useful to those poeple as it markets it meals through this site and its links to the relevant social media, which, in turn, makes it feasible for its customers to order their prized meals by phone or email.
 
 # User stories
-1. "Home" page: The image of "Grilled Kubbe", which is a flagship of the Syrian cuisine, will fairly quickly make a customer want to order and try a Syrian meal. In the "About Us" section, the customer will learn how and when to order a meal. The "Testimonials" section further encourages the customer to try one of the meals on the website. At the bottom of the page are the social media links of Syrian Meals, which will help people engage and exchange views about the Syrian meals; the social media links are at hand on all pages of the site.
+1. Home page
+   + "As a user, I would like to read, as I am visiting the home page, the main characteristics of the Syrian Meals. If possible, this page should include more info about Syrian Meals reputation."
 
-2. "Meals" page: This page shows images of twelve of the Syrian cuisine gems!
+2. "Meals" page
+   + "In this page, I, as a visiting user, want to know which meals are are being sold; images of those meals should be demostrated. Furthermore, Syrian Meals should mention the size and price of each meal. It would be helpful, if the business offers delivery service."
 
-3. "Contact" page: Here gourmets find the address and phone of the small business; they can also utilize a contact form.
+3. Contact page
+   + "The contact of Syrian Meals is important to me as a visiting user because I would like to be able to send them a message by means of a contact form inquiring about more details regarding the meals ingredient. Additionally, I expect to find the business phone and address on this page to be able to call them, order and fetch a meal. On top of that, I wish to be able to learn on this page more about the social media, on which this business has pages."
 
 # Existing Features
 + Navigation bar
@@ -88,4 +91,22 @@ Syrian Meals is a site for family-run small business that sells home-made syrian
 
 ![Wireframe screenshot of the second part of the contact page](assets/images/wireframe-contact-page-2.png)
 
+# Technology
+  + HTML
+    + Using HTML, I created the content of Syrian Meals website, made it accessible, and provided the relevant structure for search engine optimization.
+  + CSS 
+    + I utilized CSS to make the Syrian Meals website content both visually appealing and responsive on different screen sizes of laptops, tabs and smartphones.
+  + Gitpod
+    + Gitpod is an efficient cloud-based integrated development environment that I employed to write, review, integrate and deploy the HTML and CSS code of Syrian Meals website without any need for any installations or configurations.
+  + Github
+    + A platform for version control and collaborative software development, which I made use of to create a central code repository for Syrian Meals website; this, in turn, allows me to keep track of changes made to code and revert to previous versions if needed.
+  + Balsamiq
+    + This is the program I applied to generate the frameworks of Syrian Meals website.
+  + Google Fonts
+    + I resorted to Google Fonts to amplify the look of Syrian Meals website, so I integrated two of its fonts into the website by inserting their links in its respective CSS file.
+  + Font Awesome
+    + To enhance the visual design of Syrian Meals website, I turned to Font Awesome and incorporated 10 fonts into it.
 
+# Testing
+  + Code validation
+    + 

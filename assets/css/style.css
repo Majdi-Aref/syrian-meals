@@ -172,6 +172,7 @@ footer {
         float: left;
         clear: both;
         margin-bottom: 5px;
+        margin-left: 10px;
     }
 
     .menu li {
@@ -203,7 +204,7 @@ footer {
     }
 
     .testimonials {
-        margin-top: 90px;
+        margin-top: 20px;
     }
 }
 
@@ -223,7 +224,7 @@ footer {
 
 /* Media queries of home page for smartphones */
 
-@media (max-width: 460px) {
+@media (max-width: 470px) {
 
     /* headings and logo */
 
@@ -232,11 +233,15 @@ footer {
     }
 
     .logo {
-        font-size: 220%;
+        font-size: 230%;
         line-height: 45px;
+        margin-top: 10px;
         margin-bottom: 5px;
+        margin-right: 10px;
+        margin-left: 10px;
         float: none;
         text-align: center;
+        text-decoration: none;
     }
 
     /* navigation links */
@@ -247,10 +252,15 @@ footer {
         line-height: 35px;
         float: none;
         text-align: center;
+        margin-bottom: 0;
+        margin-top: 5px;
+        margin-left: 5px;
+        margin-right: 5px;
     }
 
     .menu li {
-        margin-right: 20px;
+        margin-right: 10px;
+        margin-left: 10px;
         float: none;
         display: inline-block;
     }
@@ -263,13 +273,15 @@ footer {
 
     .hero-image {
         height: 200px;
+        margin-bottom: 15px;
     }
 
     .about-us {
         height: auto;
         width: auto;
         margin-left: 10px;
-        margin-bottom: 20px;
+        margin-right: 10px;
+        margin-bottom: 15px;
         line-height: 1.5;
     }
 
@@ -278,6 +290,7 @@ footer {
     .testimonials {
         grid-template-columns: 1fr;
         grid-row-gap: 10px;
+        margin-top: 15px;
     }
 
     .testimonial {
@@ -329,6 +342,10 @@ footer {
     justify-items: center;
     align-items: center;
     margin-bottom: 80px;
+  }
+
+  .meal-name {
+    text-align: center;
   }
 
 /* media queries of meals grid for screen-width smaller than a 1171 px */
@@ -437,11 +454,20 @@ footer {
     color:#ffffff;
 }
 
+/* business address */
+
 .business-address {
     text-align: center;
-    margin: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     padding: 10px;
     line-height: 1.5;
+}
+
+.address-font {
+    margin-top: 10px;
 }
 
 /* media queries of contact page for screen-width 480 px and lower */
@@ -450,6 +476,11 @@ footer {
 
     .business-address h3, .contact-form h3 {
         font-size: 16px;
+    }
+
+    .business-address {
+        margin-top: 5px;
+        margin-bottom: 5px;
     }
   }
 
