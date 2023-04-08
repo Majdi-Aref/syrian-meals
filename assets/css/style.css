@@ -484,8 +484,14 @@ footer {
     }
   }
 
+/* Google maps section */
+
 .google-maps-section {
     margin-bottom: 80px;
+}
+
+.google-maps-location {
+    width: 100%;
 }
 
        
