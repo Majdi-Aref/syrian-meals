@@ -1,5 +1,5 @@
 # Syrian Meals
-Syrian Meals is a site for family-run small business that sells home-made syrian meals in Hamburg, Germany, which will be sought from people who enjoy eating both quite delicious and quite healthy food. Syrian Meals will be useful to those poeple as it markets it meals through this site and its links to the relevant social media, which, in turn, makes it feasible for its customers to order their prized meals by phone or email.
+Syrian Meals is a site for a family-run small business that sells home-made syrian meals in Hamburg, Germany, which will be sought from people who enjoy eating both quite delicious and quite healthy food. Syrian Meals will be useful to those poeple as it markets its meals through this site and its links to the relevant social media, which, in turn, makes it feasible for its customers to order their prized meals by phone or email.
 
 # User stories
 1. Home page
@@ -17,6 +17,7 @@ Syrian Meals is a site for family-run small business that sells home-made syrian
   + This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
 ![Screenshot of the navigation bar of Syrian Meals website project that shows the logo and links to the Home, Meals & Contact pages](assets/images/navigation-bar.png)
+
 + The landing page image
   + The landing page image on the top left shows one of the Syrian cuisine trophies "Grilled kubbi" that is so appetizing that a user craves it instantly.
   
@@ -68,8 +69,9 @@ Syrian Meals is a site for family-run small business that sells home-made syrian
   + An online paying method using, for example, a credit card will be built into the website.
 
 # Typography and color scheme
-  + Two Google fonts have been used: "Fuzzy Bubbles" and "Rubik Vinyl".
-  + Three colors have been used: rgba(3, 20, 41, 0.7), black and orangered.
+  + Two fonts from Google fonts have been used: "Fuzzy Bubbles" and "Rubik Vinyl".
+  + 8 fonts from Font Awesome have been implemented: Facebook, Twitter, Instagram, YouTube, user, phone, email, text.
+  + Three colors have been applied: #1f6b23, #ff4500 and #ffffff.
 
 # Wireframes
   + There are three wireframes, one for each website page.
@@ -105,18 +107,89 @@ Syrian Meals is a site for family-run small business that sells home-made syrian
   + Google Fonts
     + I resorted to Google Fonts to amplify the look of Syrian Meals website, so I integrated two of its fonts into the website by inserting their links in its respective CSS file.
   + Font Awesome
-    + To enhance the visual design of Syrian Meals website, I turned to Font Awesome and incorporated 10 fonts into it.
+    + To enhance the visual design of Syrian Meals website, I turned to Font Awesome and incorporated 8 fonts into it.
 
-# Testing
-  + Code validation
-    + index.html page
-      + Using the W3C html validator, I checked the index.html page; no errors or warnings were found as the following link demonstrates: [Link to validation of index.html file of Syrian Meals ](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmajdi-aref.github.io%2Fsyrian-meals%2Findex.html&showsource=yes&showoutline=yes)
-    + meals.html page
-      + Using the W3C html validator, I checked the meals.html page; no errors or warnings were found as the following link demonstrates: [Link to validation of meals.html file of Syrian Meals ](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmajdi-aref.github.io%2Fsyrian-meals%2Fmeals.html&showsource=yes&showoutline=yes)
-    + contact.html page
-      + Using the W3C html validator, I checked the contact.html page. No errors were found, but three warnings were highlighte. At this point, I prefer to ignore those warnings. Please look at the following link: [Link to validation of contact.html file of Syrian Meals ](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmajdi-aref.github.io%2Fsyrian-meals%2Fcontact.html&showsource=yes&showoutline=yes)
-    + style.css file
-      + 
+# Code validation
+  + index.html page
+    + Using the W3C html validator, I checked the index.html page; no errors or warnings were found as the following link demonstrates: [Link to validation of index.html file of Syrian Meals ](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmajdi-aref.github.io%2Fsyrian-meals%2Findex.html&showsource=yes&showoutline=yes)
+  + meals.html page
+    + Using the W3C html validator, I checked the meals.html page; no errors or warnings were found as the following link demonstrates: [Link to validation of meals.html file of Syrian Meals ](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmajdi-aref.github.io%2Fsyrian-meals%2Fmeals.html&showsource=yes&showoutline=yes)
+  + contact.html page
+    + Using the W3C html validator, I checked the contact.html page. No errors were found, but three warnings were highlighted. At this point, I prefer to ignore those warnings. Please look at the following link: [Link to validation of contact.html file of Syrian Meals ](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmajdi-aref.github.io%2Fsyrian-meals%2Fcontact.html&showsource=yes&showoutline=yes)
+  + style.css file
+    + Using the W3C CSS validator, I checked the style.css page. No errors were found; however, one warning was recorded. currently, I would ignore this warning. I could test the style.css file only by direct input, thus I took three screenshots of the css validation result. Please have a look at these screenshots below.
+
+![screenshot-1 of w3c style.css validation showing that there is no error](assets/images/w3c-validator-css-1.png)
+
+![screenshot-2 of w3c style.css validation showing one warning and the first part of style.css](assets/images/w3c-validator-css-2.png)
+
+![screenshot-3 of w3c style.css validation showing part of the first two pages of style.css](assets/images/w3c-validator-css-3.png)
+
+# Test cases (user story based with screenshots)
+  + Testing the website header
+      + "When I, a visting user of the Syrian Meals website, click on the website logo , it takes me back to the website home page. When I click on any of the three links of the navigation bar, it takes me to the relevant page; for example, when I click on the "Menu" link, it takes me to the menu page."
+
+![screenshot of the website logo that takes a visting user back to the website home page when they click on it](assets/images/readme-testing-user-story-1.png)
+
+  + Testing the website footer
+    + "When I, a visiting user of the Syrian Meals website, click on any of the 4 social media link icons (FaceBook, Twitter, Instagram and YouTube) on any of the 3 website pages, the respective Syrian Meals social media page opens in a new tab. For instance, when I click on the Instagram link icon on any of the website 3 pages, the Syrian Meals Instagram page opens in a new tab."
+
+![screenshot of the website footer that shows that when a visiting user clicks on one of the social media links fonts, the relevant Syrian Meals social media page will open in a new tab](assets/images/readme-testing-user-story-2.png)
+
+  + Testing the contact form
+    + "I, a visiting user of the Syrian Meals website, can make use the contact form on the contact form easily and effectively. I can enter my name, phone number and email in their fitting input fields; I can write a message in the message input field, then when I click on the "Send" button, my message will be successfully sent."
+
+![screenshot of the contact form as a visiting user is entering their name, phone number, email and their message and then clicking on the "Send" button to send their message](assets/images/readme-testing-user-story-3.png)
+
+  + Testing Syrian Meals address location on Google maps
+    + When I, a visitng user of the Syrian Meals website, click on the Syrian Meals address location on Google maps, a detailed, big Google map opens in a new tab showing me the exact location of Syrian Meals address.
+
+![screenshot of the Google map that opens as a visiting user clicks on Google maps address location of Syrian Meals](assets/images/readme-testing-user-story-4.png)
+
+# Fixed bugs
+  + There is solely one bug that appears as interrupted underlines underneath Syrian Meals logo; oddly, it appears only on smartphones screen sizes. Until now I can not debug it, nonetheless, I hope I would be able to debug it before I submit my porfolio project 1, Syrian Meals.
+
+![screenshot of the only bug in my portfolio project 1, Syrian Meals](assets/images/readme-testing-user-story-5.png)
+
+# Supported screens and browsers 
+  + I tested the website design of Syrian Meals on all screen sizes (Laptops, tabs and smartphones screens). The browser that I plied the most is Google Chrome; sometimes I exercised Microsoft Edge.
+  + Please have a look a the images below; they show how Syrian Meals website pages look on smartphones, tabs and laptops.
+
+![screenshot 1 of how Syrian Meals home page look on iphone 12 pro](assets/images/readme-testing-user-story-6.png)
+
+![screenshot 2 of how Syrian Meals home page look on iphone 12 pro](assets/images/readme-testing-user-story-7.png)
+
+![screenshot 3 of how Syrian Meals home page look on iphone 12 pro](assets/images/readme-testing-user-story-8.png)
+
+![screenshot 1 of how Syrian Meals home page look on ipad air](assets/images/readme-testing-user-story-9.png)
+
+![screenshot 2 of how Syrian Meals home page look on ipad air](assets/images/readme-testing-user-story-10.png)
+
+![screenshot 3 of how Syrian Meals home page look on ipad air](assets/images/readme-testing-user-story-11.png)
+
+![screenshot 1 of how Syrian Meals home page look on ASUS Vivobook 14](assets/images/readme-testing-user-story-12.png)
+
+![screenshot 2 of how Syrian Meals home page look on ASUS Vivobook 14](assets/images/readme-testing-user-story-13.png)
+
+![screenshot 3 of how Syrian Meals home page look on ASUS Vivobook 14](assets/images/readme-testing-user-story-14.png)
+
+# Deployment
+  + Via Gitpod
+  + Via Github
+
+# Credits 
+  + Code Institute HTML and CSS tutorials and videos
+  + Code Institute Love Running walkthrough project
+  + W3Schools HTML and CSS tutorials
+
+
+
+
+
+
+
+
+
     
     
 

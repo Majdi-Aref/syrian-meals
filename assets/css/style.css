@@ -56,7 +56,7 @@ h1, h2 {
 }
 
 .active {
-    border-bottom: 1px solid #ff4500 ;
+    border-bottom: 1px solid #ff4500;
 }
 
 /* hero image and about us */
@@ -153,6 +153,10 @@ footer {
 .social-networks i {
     font-size: 160%;
     color: #1f6b23;
+}
+
+.social-networks i:hover {
+    color: #ff4500;
 }
 
 /* Media queries of home page for tablets and smaller devices */
@@ -397,7 +401,7 @@ footer {
     margin: 0 20px 0 0;
     padding: 25px;
     color: #1f6b23;
-    background-color: white;
+    background-color: #ffffff;
     max-width: 500px;
     position: absolute;
     left: 10%;
@@ -433,6 +437,10 @@ footer {
     border: 1px solid #1f6b23;
     font-family: "Fuzzy Bubbles", sans-serif;
     border-radius: 4px;
+}
+
+.customer-message:hover {
+    border-color: #ff4500;
 }
 
 .send-button {
