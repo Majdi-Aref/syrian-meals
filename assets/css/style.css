@@ -104,7 +104,7 @@ h1, h2 {
     grid-column-gap: 50px;
     grid-row-gap: 20px;
     justify-items: center;
-    align-items: center;
+    align-items: stretch;
     width: 95%;
     margin: 0 auto 80px auto;
 }
