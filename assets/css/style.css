@@ -21,6 +21,10 @@ h1, h2 {
     color: #1f6b23;
 }
 
+.logo-anchor {
+    text-decoration: none;
+}
+
 .logo {
     float: left;
     font-size: 300%;
