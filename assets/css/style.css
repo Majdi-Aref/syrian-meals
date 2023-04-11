@@ -236,8 +236,6 @@ footer {
         text-decoration: none;
     }
 
-    /* navigation links */
-
     .menu {
         font-size: 100%;
         letter-spacing: 2px;
@@ -301,6 +299,20 @@ footer {
         font-size: 120%;
         margin: 1%;
         padding: 1%;
+    }
+}
+
+/* media query of testimnials section on screens that are maximally 375px wide */
+@media (max-width: 375px) {
+    .testimonial {
+        height: 90px;
+    }
+}
+
+/* media query of testimnials section on screens that are maximally 275px wide */
+@media (max-width: 275px) {
+    .testimonial {
+        height: 115px;
     }
 }
 

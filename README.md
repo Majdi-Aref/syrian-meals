@@ -131,24 +131,99 @@ Syrian Meals is a site for a family-run small business that sells homemade Syria
 
 ![screenshot-3 of w3c style.css validation showing part of the first two pages of style.css](readme.docs/w3c-validator-css-3.png)
 
-# Test cases (User story based with screenshots)
-  + Testing the website header
-      + "When I, a visiting user of the Syrian Meals website, click on the website logo, it takes me back to the website home page. When I click on any of the three links in the navigation bar, it takes me to the relevant page; for example, when I click on the "Menu" link, it takes me to the menu page."
+  + Lighthouse report
+    + On the authority of Google Lighthouse, the performance of my the home page, meals page, and contact page is 99%, 99%, and 98% respectively. Please have a look at the 3 fitting images further down.
+
+![Screenshot-1 of the Lighthouse report of the home page](readme.docs/readme-lighthouse-report-1.png)
+
+![Screenshot-2 of the Lighthouse report of the meals page](readme.docs/readme-lighthouse-report-2.png)
+
+![Screenshot-3 of the Lighthouse report of the contact page](readme.docs/readme-lighthouse-report-3.png)
+
+# Test cases
+  + Testing the website's logo
+    + Test description: This test checks the functionality of the website's logo.
+    + Steps:
+      + Click on the website's logo.
+    + Expected Result: The user should be sent back to the website's home page.
+    + Actual Result: The user was sent back to the "Home" page.
+
+  + Testing the "Home" link in the navigation bar
+    + Test description: This test checks the functionality of the "Home" link in the navigation bar.
+    + Steps:
+      + Click on the "Home" link in the navigation bar.
+    + Expected Result: The user should go to website's home page.
+    + Actual Result: The user went to the website's home page.
+
+  + Testing the "Meals" link in the navigation bar
+    + Test description: This test checks the functionality of the "Meals" link in the navigation bar.
+    + Steps:
+      + Click on the "Meals" link in the navigation bar.
+    + Expected Result: The user should go to website's meals page.
+    + Actual Result: The user went to the website's meals page.
+
+  + Testing the "Contact" link in the navigation bar
+    + Test description: This test checks the functionality of the "Contact" link in the navigation bar.
+    + Steps:
+      + Click on the "Contact" link in the navigation bar.
+    + Expected Result: The user should go to website's contact page.
+    + Actual Result: The user went to the website's contact page.
 
 ![screenshot of the website logo and navigation bar](readme.docs/readme-testing-user-story-1.png)
 
-  + Testing the website footer
-    + "When I, a visiting user of the Syrian Meals website, click on any of the 4 social media link icons (FaceBook, Twitter, Instagram, and YouTube) on any of the 3 website pages, the respective Syrian Meals social media page opens in a new tab. For instance, when I click on the Instagram link icon on any of the website's 3 pages, the Syrian Meals Instagram page opens in a new tab."
+  + Testing the link to the Syrian Meals' Instagram page in the footer
+    + Test description: This test checks the functionality of the link to Syrian Meals' Instagram page in the footer. 
+    + Steps:
+      + Click on the link to the Syrian Meals' Instagram page in the footer.
+    + Expected Result: The Syrian Meals' Instagram page should be opened in a new tab for the user.
+    + Actual Result: The Syrian Meals' Instagram page was opened in a new tab for the user.
+
+  + Testing the link to the Syrian Meals' Facebook page in the footer
+    + Test description: This test checks the functionality of the link to Syrian Meals' Facebook page in the footer. 
+    + Steps:
+      + Click on the link to the Syrian Meals' Facebook page in the footer.
+    + Expected Result: The Syrian Meals' Facebook page should be opened in a new tab for the user.
+    + Actual Result: The Syrian Meals' Facebook page was opened in a new tab for the user.
+
+  + Testing the link to the Syrian Meals' Twitter page in the footer
+    + Test description: This test checks the functionality of the link to Syrian Meals' Twitter page in the footer. 
+    + Steps:
+      + Click on the link to the Syrian Meals' Twitter page in the footer.
+    + Expected Result: The Syrian Meals' Twitter page should be opened in a new tab for the user.
+    + Actual Result: The Syrian Meals' Twitter page was opened in a new tab for the user.
+
+  + Testing the link to the Syrian Meals' YouTube page in the footer
+    + Test description: This test checks the functionality of the link to Syrian Meals' YouTube page in the footer. 
+    + Steps:
+      + Click on the link to the Syrian Meals' YouTube page in the footer.
+    + Expected Result: The Syrian Meals' YouTube page should be opened in a new tab for the user.
+    + Actual Result: The Syrian Meals' YouTube page was opened in a new tab for the user.
 
 ![screenshot of the website footer that includes the social media links of the Syrian Meals website](readme.docs/readme-testing-user-story-2.png)
 
-  + Testing the contact form
-    + "I, a visiting user of the Syrian Meals website, can make use of the contact form on the contact form easily and effectively. I can enter my name, phone number, and email in their fitting input fields; I can write a message in the message input field, then when I click on the "Send" button, my message will be successfully sent."
+  + Testing the contact form on the contact page
+    + Test description: This test checks the functionality of the contact form.
+    + Steps:
+      + Type your name in the user's name input field.
+      + Type your phone number in the phone number's input field.
+      + Type your email address in the email address's input field.
+      + Type your message in the message's input field.
+      + Press "Send."
+    + Expected Result: A confirmation message should open in a new tab assuring the user that Syrian Meals has received their message.
+    + Actual Result: A confirmation message opened in a new tab assuring the user that Syrian Meals has received their message.
+    + Please have a look at the apposite screenshots beneath.
 
 ![screenshot of the contact form](readme.docs/readme-testing-user-story-3.png)
 
-  + Testing Syrian Meals address location on Google Maps
-    + When I, a visiting user of the Syrian Meals website, click on the Syrian Meals address location on Google Maps, a detailed, big Google map opens in a new tab showing me the inch-perfect location of the Syrian Meals address.
+![screenshot of the contact form](readme.docs/readme-contact-form-confirmation-message.png)
+
++ Testing the Syrian Meals' address location on Google Maps
+    + Test description: This test checks the functionality of the Syrian Meals' address location on Google Maps.
+    + Steps:
+      + Click on the the Syrian Meals' address location on Google Maps.
+    + Expected Result: A detailed, big Google map opens in a new tab showing the inch-perfect location of the Syrian Meals' address.
+    + Actual Result: A detailed, big Google map opened in a new tab showing the inch-perfect location of the Syrian Meals' address.
+    + Please inspect the image below.
 
 ![screenshot of the Google map that opens as a visiting user clicks on Google maps address location of Syrian Meals](readme.docs/readme-testing-user-story-4.png)
 
@@ -162,8 +237,9 @@ Syrian Meals is a site for a family-run small business that sells homemade Syria
 ![screenshot of the logo after it has been debugged](readme.docs/readme-debugged-logo.png)
 
 # Supported screens and browsers 
-  + I tested the website design of Syrian Meals on all screen sizes (Laptops, tabs, and smartphones screens). The browser that I plied the most is Google Chrome; sometimes I exercised Microsoft Edge.
-  + Please have a look a the images below; they show how Syrian Meals website pages look on smartphones, tabs, and laptops.
+  + Appling multiple media queries, I developed the Syrian Meals' website to fit Laptops', tabs', and smartphones' screen sizes. 
+  + The browser that I plied the most is Google Chrome; sometimes I exercised Microsoft Edge.
+  + Please have a look a the images below; they successively show how the website's pages simulate on smartphones, tabs, and laptops.
 
 ![screenshot 1 of how Syrian Meals home page look on iphone 12 pro](readme.docs/readme-debugged-logo.png)
 
@@ -185,7 +261,28 @@ Syrian Meals is a site for a family-run small business that sells homemade Syria
 
 # Deployment
   + Via Gitpod
+    + Gitpod is a cloud-based development environment that allows you to develop, build, and deploy your website in the cloud.
+    + Open an account and create a new repository on Github.
+    + Open Gitpod' dashboard, then create a new workspace for the new repository that you created on Giphub; Gitpod will save the workspace that you created.
+    + Open the Gitpod's workspace that you just created.
+    + As soon as you have opened your repository in Gitpod, you can use the terminal to run the necessary commands to build and deploy your website.
+    + Using the terminal, create as many html and css files as you need for your project.
+    + Using the terminal, create a readme.md file for your project.
+    + Type in the Gitpod's terminal the command: "python3 -m http.server"; this will open your Github's repository through your Gitpod's workspace in a browser.
+    + Type in the Gitpod's terminal the command: "git add ." to add your project's code to your Gitpod's workspace.
+    + Type in the Gitpod's terminal the command: "git commit -m "what code or styling you have created in your Gitpod's workspace in just a few words" to commit your project's code to your Gitpod's workspace.
+    + Type in the Gitpod's terminal the command: "git push" to push and save your project's code in your Github's repository.
   + Via Github
+    + GitHub is a free code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+    + Open Gihub and sign in.
+    + Using the menu on the top right corner, click on "Your repositories".
+    + Click on the repository that you want to open.
+    + On your repository page, click on "Settings".
+    + On the settings' page, click on "Pages".
+    + In Github pages under "Source" under "Build and deploy", choose "Deploy from a branch".
+    + In Github pages under "branch", choose the option "main" and then click on "Save".
+    + After no more than a few minutes, your repository will be deployed; a URL link of your repository will emerge on top of Github pages.
+    + Click on the URL link to open the new website of your repository live in a browser!
 
 # Credits 
   + Code Institute HTML and CSS tutorials and videos
