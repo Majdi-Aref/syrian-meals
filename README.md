@@ -3,66 +3,71 @@ Syrian Meals is a site for a family-run small business that sells homemade Syria
 
 # User stories
 1. Home page
-   + "As a user, I would like to read, as I am visiting the home page, the main characteristics of Syrian Meals. If possible, this page should include more info about Syrian Meals' reputation."
+   + "As a visiting user, I would like to know more about the Syrian Meals small business."
 
-2. "Meals" page
-   + "On this page, I, as a visiting user, want to know which meals are being sold; images of those meals should be demonstrated. Furthermore, Syrian Meals should mention the size and price of each meal. It would be helpful if the business offers delivery service."
+2. Meals page
+   + "I, as a visiting user, would like to be informed about which meals Syrian Meals sells."
 
 3. Contact page
-   + "The contact of Syrian Meals is important to me as a visiting user because I would like to be able to send them a message through a contact form; for example, to inquire about more details regarding meal ingredients. Additionally, I expect to find the business phone and address on this page to be able to call them, order and fetch a meal. On top of that, I wish to be able to learn on this page more about the social media, on which this business has pages."
+   + "As a visiting user, I would like to contact Syrian Meals for any business enquiries."
 
 # Existing Features
 + Navigation bar
   + The full responsive navigation bar is featured on all three pages and includes links to the logo, home page, meals page, and contact page and is identical on each page to allow for easy navigation. 
   + This section will allow the user to easily navigate from page to page across all devices without having to revert to the previous page via the ‘back’ button.
 
-![Screenshot of the navigation bar of Syrian Meals website project that shows the logo and links to the Home, Meals & Contact pages](assets/images/navigation-bar.png)
+![Screenshot of the navigation bar of Syrian Meals website project that shows the logo and links to the Home, Meals & Contact pages](readme.docs/navigation-bar.png)
 
 + The landing page image
   + The landing page image on the top left shows one of the Syrian cuisine trophies "Grilled kubbi" which is so appetizing that a user craves it instantly.
   
-![Screenshot of the Syrian Meal "Grilled kubbi"](assets/images/hero-image-readme.md.png)
+![Screenshot of the Syrian Meal "Grilled kubbi"](readme.docs/hero-image-readme.md.png)
 
 + "About Us" section
   + This section appears on the top right of the home page and informs a user that "Syrian Meals" is a Syrian, family-run, small business that sells home-cooked, Syrian meals in Hamburg by implementing Syrian cuisine and using only bio ingredients. Those three characteristics emphasize to a user that this small business aims to produce meals of very high quality that is quite healthy and tasty. The fact that the small business is Syrian demonstrates that the meals not only follow the Syrian cuisine meals but also are being made by Syrians, whose nutrition system stands the test of time for thousands of years.
   + The second paragraph explains to a user how he can order a meal; it says that a user can order by phone or email, which are inserted on the contact page, at least one day in advance, which, again, foregrounds that a meal quality is a dominant feature as meals will always be fresh on the day of eating.
   + Furthermore, it has been highlighted that the small business can deliver its meals only in Hamburg.
 
-![Screenshot of the "About Us" section that gives details about the small business and how a user can order a meal](assets/images/about-us-readme.md.png)
+![Screenshot of the "About Us" section that gives details about the small business and how a user can order a meal](readme.docs/about-us-readme.md.png)
 
 + "Testimonials" section
   + It reveals three positive testimonials written by customers of "Syrian Meals", which adds to the small business's credibility and stimulates a user to buy a meal.
 
-![Screenshot of the "Testimonials" section that reveals three positive testimonials](assets/images/testimonials-readme.md.png)
+![Screenshot of the "Testimonials" section that reveals three positive testimonials](readme.docs/testimonials-readme.md.png)
 
 + The footer
   + The footer section contains links to the relevant social media sites for Syrian Meals. The links will open to a new tab to allow easy navigation for the user.
   + The footer is cherished by the user as it inspires them to keep connected via social media.
 
-![Screenshot of the footer section that contains links to the relevant social media sites for Syrian Meals](assets/images/footer-readme.md.png)
+![Screenshot of the footer section that contains links to the relevant social media sites for Syrian Meals](readme.docs/footer-readme.md.png)
 
 + The "Meals" section
   + The "Meals" section on the meals page exhibits 12 captivating images of 12 of the Syrian cuisine sensations, each with a relavent, ancient meal name; at this point, a user is expected to order one of the meals as their appetite will be thoroughly activated. The attractive, ancient meal names will arouse a user's curiosity to a greater extent.
   + This includes a small paragraph at the top that describes to a user that each meal is enough for one person, that each meal costs 15 Euros, and that delivery costs 5 Euros. Those details help a user briskly choose which and how many meals they would like.
 
-![Screenshot of the meals section on the meals page, which contains 12 of the Syrian cuisine meals with their beautiful, relevant, ancient names](assets/images/meals-readme.md.png)
+![Screenshot of the meals section on the meals page, which contains 12 of the Syrian cuisine meals with their beautiful, relevant, ancient names](readme.docs/meals-readme.md.png)
 
 + The contact form
   + The contact form exists on the contact page and motivates a user to send Syrian Meals a message; in their message, they are free to order, to inquire more about the meals, or to ask anything they want; a user will be requested to submit their name, phone, and email.
   + Underneath the contact form, there is an appealing background image that reflects some vegetables and fruits, which allusively accentuates the fact that eating per a traditional cooking school, like the vintage Syrian one that exclusively employs natural, bio ingredients, is key for anyone who wants to stay strong and healthy.
   + The header of the contact form, "You Are What You Eat!" spotlights to the user what "Syrian Meals" is all about.
 
-![Screenshot of the contact form and its background image on the contact page](assets/images/contact-readme.md.png)
+![Screenshot of the contact form and its background image on the contact page](readme.docs/contact-readme.md.png)
 
 + Phone and address section
   + The small business phone and address are located here, so a user can contact Syrian Meals and order their meals; the address enables a customer to visit Syrian Meals and fetch their meals themselves, in this case, they will not have to pay the 5 Euros delivery costs.
 
-![Screenshot of the phone and address section on the contact page](assets/images/phone-and-address-readme.md.png)
+![Screenshot of the phone and address section on the contact page](readme.docs/phone-and-address-readme.md.png)
 
 + Syrian Meals address on Google Maps
   + Customers can quickly and precisely locate Syrian Meals as its location on Google Maps is embedded just below the phone and address section at the bottom of the contact page.
 
-![Screenshot of Syrian Meals address on Google maps](assets/images/google-maps-location-readme.md.png)
+![Screenshot of Syrian Meals address on Google maps](readme.docs/google-maps-location-readme.md.png)
+
++ Confirmation page
+  + As a user sends a message via the contact form on the contact page, a confirmation page opens in a new tab, in which there is a vindication message that asserts to the user that Syrian Meals has received their message.
+
+![Screenshot of the confirmation page](readme.docs/readme-confirmation-page.png)
 
 # Future Features
   + In the future, Syrian Meals plans to add more Syrian cuisine wonders to its menu.
@@ -71,28 +76,28 @@ Syrian Meals is a site for a family-run small business that sells homemade Syria
 
 # Typography and color scheme
   + Two fonts from Google fonts have been used: "Fuzzy Bubbles" and "Rubik Vinyl".
-  + 8 fonts from Font Awesome have been implemented: Facebook, Twitter, Instagram, YouTube, user, phone, email, and text.
-  + Three colors have been applied: #1f6b23, #ff4500, and #ffffff.
+  + 9 icons from Font Awesome have been implemented: Facebook, Twitter, Instagram, YouTube, user, phone, email, text, and check.
+  + 4 colors have been applied: #1f6b23, #ff4500, #ffffff, and #fafad2.
 
 # Wireframes
   + There are three wireframes, one for each website page.
   + They are going to be displayed here by means of eight wireframes screenshots as follows.
 
-![Wireframe screenshot of the hero image and About Us section](assets/images/wireframe-hero-image-about-us.png)
+![Wireframe screenshot of the hero image and About Us section](readme.docs/wireframe-hero-image-about-us.png)
 
-![Wireframe screenshot of the testimonials and the footer](assets/images/wireframe-testimonials-footer.png)
+![Wireframe screenshot of the testimonials and the footer](readme.docs/wireframe-testimonials-footer.png)
 
-![Wireframe screenshot of the first part of the meals section](assets/images/wireframe-meals-1.png)
+![Wireframe screenshot of the first part of the meals section](readme.docs/wireframe-meals-1.png)
 
-![Wireframe screenshot of the second part of the meals section](assets/images/wireframe-meals-2.png)
+![Wireframe screenshot of the second part of the meals section](readme.docs/wireframe-meals-2.png)
 
-![Wireframe screenshot of the third part of meals section](assets/images/wireframe-meals-3.png)
+![Wireframe screenshot of the third part of meals section](readme.docs/wireframe-meals-3.png)
 
-![Wireframe screenshot of the fourth part of meals section](assets/images/wireframe-meals-4.png)
+![Wireframe screenshot of the fourth part of meals section](readme.docs/wireframe-meals-4.png)
 
-![Wireframe screenshot of the first part of the contact page](assets/images/wireframe-contact-page-1.png)
+![Wireframe screenshot of the first part of the contact page](readme.docs/wireframe-contact-page-1.png)
 
-![Wireframe screenshot of the second part of the contact page](assets/images/wireframe-contact-page-2.png)
+![Wireframe screenshot of the second part of the contact page](readme.docs/wireframe-contact-page-2.png)
 
 # Technology
   + HTML
@@ -120,63 +125,63 @@ Syrian Meals is a site for a family-run small business that sells homemade Syria
   + style.css file
     + Using the W3C CSS validator, I checked the style.css page. No errors were found; however, one warning was recorded. currently, I would ignore this warning. I could test the style.css file only by direct input, thus I took three screenshots of the CSS validation result. Please have a look at the screenshots below.
 
-![screenshot-1 of w3c style.css validation showing that there is no error](assets/images/w3c-validator-css-1.png)
+![screenshot-1 of w3c style.css validation showing that there is no error](readme.docs/w3c-validator-css-1.png)
 
-![screenshot-2 of w3c style.css validation showing one warning and the first part of style.css](assets/images/w3c-validator-css-2.png)
+![screenshot-2 of w3c style.css validation showing one warning and the first part of style.css](readme.docs/w3c-validator-css-2.png)
 
-![screenshot-3 of w3c style.css validation showing part of the first two pages of style.css](assets/images/w3c-validator-css-3.png)
+![screenshot-3 of w3c style.css validation showing part of the first two pages of style.css](readme.docs/w3c-validator-css-3.png)
 
 # Test cases (User story based with screenshots)
   + Testing the website header
       + "When I, a visiting user of the Syrian Meals website, click on the website logo, it takes me back to the website home page. When I click on any of the three links in the navigation bar, it takes me to the relevant page; for example, when I click on the "Menu" link, it takes me to the menu page."
 
-![screenshot of the website logo that takes a visting user back to the website home page when they click on it](assets/images/readme-testing-user-story-1.png)
+![screenshot of the website logo and navigation bar](readme.docs/readme-testing-user-story-1.png)
 
   + Testing the website footer
     + "When I, a visiting user of the Syrian Meals website, click on any of the 4 social media link icons (FaceBook, Twitter, Instagram, and YouTube) on any of the 3 website pages, the respective Syrian Meals social media page opens in a new tab. For instance, when I click on the Instagram link icon on any of the website's 3 pages, the Syrian Meals Instagram page opens in a new tab."
 
-![screenshot of the website footer that shows that when a visiting user clicks on one of the social media links fonts, the relevant Syrian Meals social media page will open in a new tab](assets/images/readme-testing-user-story-2.png)
+![screenshot of the website footer that includes the social media links of the Syrian Meals website](readme.docs/readme-testing-user-story-2.png)
 
   + Testing the contact form
     + "I, a visiting user of the Syrian Meals website, can make use of the contact form on the contact form easily and effectively. I can enter my name, phone number, and email in their fitting input fields; I can write a message in the message input field, then when I click on the "Send" button, my message will be successfully sent."
 
-![screenshot of the contact form as a visiting user is entering their name, phone number, email and their message and then clicking on the "Send" button to send their message](assets/images/readme-testing-user-story-3.png)
+![screenshot of the contact form](readme.docs/readme-testing-user-story-3.png)
 
   + Testing Syrian Meals address location on Google Maps
     + When I, a visiting user of the Syrian Meals website, click on the Syrian Meals address location on Google Maps, a detailed, big Google map opens in a new tab showing me the inch-perfect location of the Syrian Meals address.
 
-![screenshot of the Google map that opens as a visiting user clicks on Google maps address location of Syrian Meals](assets/images/readme-testing-user-story-4.png)
+![screenshot of the Google map that opens as a visiting user clicks on Google maps address location of Syrian Meals](readme.docs/readme-testing-user-story-4.png)
 
 # Fixed bugs
   + There was solely one bug that appeared as interrupted underlines underneath the Syrian Meals logo; oddly, it appeared only on smartphone screen sizes. 
   + I created a class for the anchor element of the logo in all html files and targeted it in the style.css with a "text-decoration" property, then I furnished it with a value of "none". Once I did that, the bug retired!
   + Please look at the proper images below, the first image as the logo was bugged and the second one after I have debugged it.
 
-![screenshot of the logo as it was bugged](assets/images/readme-bugged-logo.png)
+![screenshot of the logo as it was bugged](readme.docs/readme-bugged-logo.png)
 
-![screenshot of the logo after it has been debugged](assets/images/readme-debugged-logo.png)
+![screenshot of the logo after it has been debugged](readme.docs/readme-debugged-logo.png)
 
 # Supported screens and browsers 
   + I tested the website design of Syrian Meals on all screen sizes (Laptops, tabs, and smartphones screens). The browser that I plied the most is Google Chrome; sometimes I exercised Microsoft Edge.
   + Please have a look a the images below; they show how Syrian Meals website pages look on smartphones, tabs, and laptops.
 
-![screenshot 1 of how Syrian Meals home page look on iphone 12 pro](assets/images/readme-debugged-logo.png)
+![screenshot 1 of how Syrian Meals home page look on iphone 12 pro](readme.docs/readme-debugged-logo.png)
 
-![screenshot 2 of how Syrian Meals home page look on iphone 12 pro](assets/images/readme-smartphone-look-meals-page.png)
+![screenshot 2 of how Syrian Meals home page look on iphone 12 pro](readme.docs/readme-smartphone-look-meals-page.png)
 
-![screenshot 3 of how Syrian Meals home page look on iphone 12 pro](assets/images/readme-smartphone-look-contact-page.png)
+![screenshot 3 of how Syrian Meals home page look on iphone 12 pro](readme.docs/readme-smartphone-look-contact-page.png)
 
-![screenshot 1 of how Syrian Meals home page look on ipad air](assets/images/readme-testing-user-story-9.png)
+![screenshot 1 of how Syrian Meals home page look on ipad air](readme.docs/readme-testing-user-story-9.png)
 
-![screenshot 2 of how Syrian Meals home page look on ipad air](assets/images/readme-testing-user-story-10.png)
+![screenshot 2 of how Syrian Meals home page look on ipad air](readme.docs/readme-testing-user-story-10.png)
 
-![screenshot 3 of how Syrian Meals home page look on ipad air](assets/images/readme-testing-user-story-11.png)
+![screenshot 3 of how Syrian Meals home page look on ipad air](readme.docs/readme-testing-user-story-11.png)
 
-![screenshot 1 of how Syrian Meals home page look on ASUS Vivobook 14](assets/images/readme-testing-user-story-12.png)
+![screenshot 1 of how Syrian Meals home page look on ASUS Vivobook 14](readme.docs/readme-testing-user-story-12.png)
 
-![screenshot 2 of how Syrian Meals home page look on ASUS Vivobook 14](assets/images/readme-testing-user-story-13.png)
+![screenshot 2 of how Syrian Meals home page look on ASUS Vivobook 14](readme.docs/readme-testing-user-story-13.png)
 
-![screenshot 3 of how Syrian Meals home page look on ASUS Vivobook 14](assets/images/readme-testing-user-story-14.png)
+![screenshot 3 of how Syrian Meals home page look on ASUS Vivobook 14](readme.docs/readme-testing-user-story-14.png)
 
 # Deployment
   + Via Gitpod
