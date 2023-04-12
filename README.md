@@ -6,7 +6,7 @@ Syrian Meals is a site for a family-run small business that sells homemade Syria
    + "As a visiting user, I would like to know more about the Syrian Meals small business."
 
 2. Meals page
-   + "I, as a visiting user, would like to be informed about which meals Syrian Meals sells."
+   + "I, as a visiting user, would like to be informed about which dishes Syrian Meals sells."
 
 3. Contact page
    + "As a visiting user, I would like to contact Syrian Meals for any business enquiries."
@@ -30,6 +30,14 @@ Syrian Meals is a site for a family-run small business that sells homemade Syria
 
 ![Screenshot of the "About Us" section that gives details about the small business and how a user can order a meal](readme.docs/about-us-readme.md.png)
 
++ "Why Syrian cuisine" section
+  + Featuring six points, this section interprets what makes syrian cuisine in a class by itself, which is forecast to p. d. q. close the sale with a user.
+  + Syrian cuisine is exceptionally tasty and one of the most ancient cuisines in history known to man.
+  + It lowers the risk of heart and brain diseases, supports healthy blood sugar, and may help lose some weight.
+  + Please consider its grid image beneath.
+
+![Screenshot of why-Syrian-cuisine section ](readme.docs/readme-why-syrian-cuisine-section.png)
+
 + "Testimonials" section
   + It reveals three positive testimonials written by customers of "Syrian Meals", which adds to the small business's credibility and stimulates a user to buy a meal.
 
@@ -37,6 +45,10 @@ Syrian Meals is a site for a family-run small business that sells homemade Syria
 
 + The footer
   + The footer section contains links to the relevant social media sites for Syrian Meals. The links will open to a new tab to allow easy navigation for the user.
+  + Clicking on the Instagram link opens the Syrian Meals page on Instagram in a new tab.
+  + Clicking on the Facebook link opens the Syrian Meals page on Facebook in a new tab.
+  + Clicking on the Twitter link opens the Syrian Meals page on Twitter in a new tab.
+  + Clicking on the YouTube link opens the Syrian Meals page on YouTube in a new tab.
   + The footer is cherished by the user as it inspires them to keep connected via social media.
 
 ![Screenshot of the footer section that contains links to the relevant social media sites for Syrian Meals](readme.docs/footer-readme.md.png)
@@ -243,27 +255,51 @@ Syrian Meals is a site for a family-run small business that sells homemade Syria
 
 ![screenshot 1 of how Syrian Meals home page look on iphone 12 pro](readme.docs/readme-debugged-logo.png)
 
+![screenshot 1 of Why Syrian cuisine section on iphone 12 pro](readme.docs/readme-iphone-image-1.png)
+
+![screenshot 2 of Why Syrian cuisine section on iphone 12 pro](readme.docs/readme-iphone-image-2.png)
+
+![screenshot of testimonials on iphone 12 pro](readme.docs/readme-testimonials-iphone.png)
+
 ![screenshot 2 of how Syrian Meals home page look on iphone 12 pro](readme.docs/readme-smartphone-look-meals-page.png)
+
+![screenshot 2-2 of how the meals page look on iphone 12 pro](readme.docs/readme-iphone-image-3.png)
+
+![screenshot 2-3 of how the meals page look on iphone 12 pro](readme.docs/readme-iphone-image-4.png)
+
+![screenshot 2-4 of how the meals page look on iphone 12 pro](readme.docs/readme-iphone-image-5.png)
+
+![screenshot 2-5 of how the meals page look on iphone 12 pro](readme.docs/readme-iphone-image-6.png)
 
 ![screenshot 3 of how Syrian Meals home page look on iphone 12 pro](readme.docs/readme-smartphone-look-contact-page.png)
 
-![screenshot 1 of how Syrian Meals home page look on ipad air](readme.docs/readme-testing-user-story-9.png)
+![screenshot 3 of business address and Google maps location on iphone 12 pro](readme.docs/readme-address-google-maps-iphone.png)
 
-![screenshot 2 of how Syrian Meals home page look on ipad air](readme.docs/readme-testing-user-story-10.png)
+![screenshot 1 of home page on ipad pro](readme.docs/readme-home-ipad-pro-1.png)
 
-![screenshot 3 of how Syrian Meals home page look on ipad air](readme.docs/readme-testing-user-story-11.png)
+![screenshot 2 of home page on ipad pro](readme.docs/readme-home-ipad-pro-2.png)
 
-![screenshot 1 of how Syrian Meals home page look on ASUS Vivobook 14](readme.docs/readme-testing-user-story-12.png)
+![screenshot 2 of meals page on ipad air](readme.docs/readme-testing-user-story-10.png)
 
-![screenshot 2 of how Syrian Meals home page look on ASUS Vivobook 14](readme.docs/readme-testing-user-story-13.png)
+![screenshot 3 of contact page on ipad air](readme.docs/readme-testing-user-story-11.png)
 
-![screenshot 3 of how Syrian Meals home page look on ASUS Vivobook 14](readme.docs/readme-testing-user-story-14.png)
+![screenshot 1 of home page look on ASUS Vivobook 14](readme.docs/readme-testing-user-story-12.png)
+
+![screenshot 1-1 of home page look on ASUS Vivobook 14](readme.docs/readme-home-page-laptop-2.png)
+
+![screenshot 1 of meals page on ASUS Vivobook 14](readme.docs/readme-testing-user-story-13.png)
+
+![screenshot 2 of meals page on ASUS Vivobook 14](readme.docs/readme-meals-page-laptop-2.png)
+
+![screenshot 1 of contact page on ASUS Vivobook 14](readme.docs/readme-testing-user-story-14.png)
+
+![screenshot 2 of contact page on ASUS Vivobook 14](readme.docs/readme-contact-page-laptop-2.png)
 
 # Deployment
   + Via Gitpod
     + Gitpod is a cloud-based development environment that allows you to develop, build, and deploy your website in the cloud.
     + Open an account and create a new repository on Github.
-    + Open Gitpod' dashboard, then create a new workspace for the new repository that you created on Giphub; Gitpod will save the workspace that you created.
+    + Open Gitpod' dashboard, then create a new workspace for the new repository that you created on Github; Gitpod will save the workspace that you created.
     + Open the Gitpod's workspace that you just created.
     + As soon as you have opened your repository in Gitpod, you can use the terminal to run the necessary commands to build and deploy your website.
     + Using the terminal, create as many html and css files as you need for your project.
@@ -277,18 +313,18 @@ Syrian Meals is a site for a family-run small business that sells homemade Syria
     + Type in the Gitpod's terminal the command: "git push" to push and save your project's code in your Github's repository.
   + Via Github
     + GitHub is a free code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-    + Open Gihub and sign in.
+    + Open Github and sign in.
     + Using the menu on the top right corner, click on "Your repositories".
     + Click on the repository that you want to open.
     + On your repository page, click on "Settings".
     + On the settings' page, click on "Pages".
     + In Github pages under "Source" under "Build and deploy", choose "Deploy from a branch".
     + In Github pages under "branch", choose the option "main" and then click on "Save".
-    + After no more than a few minutes, your repository will be deployed; a public URL link of your repository will emerge on top of Github pages.
+    + Typically within few minutes, your repository will be deployed; a public URL link of your repository will emerge on top of Github pages.
     + Click on the public URL link to open the new website of your repository live in a browser!
 
 # Credits 
   + Code Institute HTML and CSS tutorials and videos
   + Code Institute Love Running walkthrough project
   + W3Schools HTML and CSS tutorials
-
+  

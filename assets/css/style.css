@@ -183,6 +183,7 @@ h1, h2 {
 
     .why-syrian-cuisine-heading {
         grid-column: 1 / 2;
+        margin-bottom: 15px;
     }
 
     .reason p {
@@ -620,6 +621,3 @@ footer {
 .confirmation-block p {
     font-weight: bold;
 }
-
-
-
