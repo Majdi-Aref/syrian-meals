@@ -268,8 +268,11 @@ Syrian Meals is a site for a family-run small business that sells homemade Syria
     + As soon as you have opened your repository in Gitpod, you can use the terminal to run the necessary commands to build and deploy your website.
     + Using the terminal, create as many html and css files as you need for your project.
     + Using the terminal, create a readme.md file for your project.
-    + Type in the Gitpod's terminal the command: "python3 -m http.server"; this will open your Github's repository through your Gitpod's workspace in a browser.
-    + Type in the Gitpod's terminal the command: "git add ." to add your project's code to your Gitpod's workspace.
+    + Type in the Gitpod's terminal the command: "python3 -m http.server", a small window opens at the right bottom corner.
+    + In that small window, click on "Open browser"; this opens your Github's repository through your Gitpod's workspace in a browser in a new tab.
+    + Press at that same time "Control + Shift + R" to refresh your browser.
+    + Press at the same time "Control + S" to save the code you create in Gitpod's worksace; this will automatically save it in your applicable file in your Gitpod's workspace.
+    + Type in the Gitpod's terminal the command: "git add ." to add your project's code that you have created during a working session of yours to your Gitpod's workspace.
     + Type in the Gitpod's terminal the command: "git commit -m "what code or styling you have created in your Gitpod's workspace in just a few words" to commit your project's code to your Gitpod's workspace.
     + Type in the Gitpod's terminal the command: "git push" to push and save your project's code in your Github's repository.
   + Via Github
@@ -281,23 +284,11 @@ Syrian Meals is a site for a family-run small business that sells homemade Syria
     + On the settings' page, click on "Pages".
     + In Github pages under "Source" under "Build and deploy", choose "Deploy from a branch".
     + In Github pages under "branch", choose the option "main" and then click on "Save".
-    + After no more than a few minutes, your repository will be deployed; a URL link of your repository will emerge on top of Github pages.
-    + Click on the URL link to open the new website of your repository live in a browser!
+    + After no more than a few minutes, your repository will be deployed; a public URL link of your repository will emerge on top of Github pages.
+    + Click on the public URL link to open the new website of your repository live in a browser!
 
 # Credits 
   + Code Institute HTML and CSS tutorials and videos
   + Code Institute Love Running walkthrough project
   + W3Schools HTML and CSS tutorials
 
-
-
-
-
-
-
-
-
-    
-    
-
-    
