@@ -63,6 +63,8 @@ Syrian Meals is a site for a family-run small business that sells homemade Syria
   + The contact form exists on the contact page and motivates a user to send Syrian Meals a message; in their message, they are free to order, to inquire more about the meals, or to ask anything they want; a user will be requested to submit their name, phone, and email.
   + Underneath the contact form, there is an appealing background image that reflects some vegetables and fruits, which allusively accentuates the fact that eating per a traditional cooking school, like the vintage Syrian one that exclusively employs natural, bio ingredients, is key for anyone who wants to stay strong and healthy.
   + The header of the contact form, "You Are What You Eat!" spotlights to the user what "Syrian Meals" is all about.
+  + I targeted each of the 4 icon elements, each of the 3 input field elements, and the textarea element of the contact form with an aria-label attribute that unfolds the purpose of each of them.
+  + In addition, I targeted each of the two icons of the Syrian Meals' address with an aria-label that narrates the goal of each of them.
 
 ![Screenshot of the contact form and its background image on the contact page](readme.docs/contact-readme.md.png)
 
