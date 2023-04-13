@@ -56,7 +56,8 @@
 - [12. Credits ](#12-credits)
 
 # Syrian Meals
-Syrian Meals is a website for a family-run small business that sells homemade Syrian meals in Hamburg, Germany, which will be sought by people who enjoy eating both quite delicious and quite healthy food. Syrian Meals will be useful to those people as it markets its meals through this site and its links to the relevant social media, which, in turn, makes it feasible for its customers to order their prized meals by phone or email.
++ Syrian Meals is a website for a family-run small business that sells homemade Syrian meals in Hamburg, Germany, which will be sought by people who enjoy eating both quite delicious and quite healthy food. Syrian Meals will be useful to those people as it markets its meals through this site and its links to the relevant social media, which, in turn, makes it feasible for its customers to order their prized meals by phone or email.
++ I developed Syrian Meals as my portfolio project 1 of my full stack software development diploma with the Code Institute in Dublin, Ireland.
 
 # 1. User stories
 ## 1. 1. Home pape
